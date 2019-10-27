@@ -9906,6 +9906,8 @@ a.text-dark:focus, a.text-dark:hover {
   height: 50px;
   text-align: center;
   font-size: 200%;
+  position: fixed;
+  bottom: 0;
 }
 
 @media (max-width: 575px) {
