@@ -9893,6 +9893,39 @@ a.text-dark:focus, a.text-dark:hover {
   }
 }
 body {
-  background-color: aqua;
+  height: 100vh;
+}
+
+.signal {
+  width: 400px;
+  height: 150px;
+  background-color: black;
+  color: white;
+  font-size: 4em;
+  font-family: 'Baloo Bhaijaan', cursive;
+  text-transform: uppercase;
+  position: absolute;
+  z-index: 1;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.blue {
+  background-color: #3333FF;
+  height: 100vh;
+}
+
+.orange {
+  background-color: #FF6600;
+}
+
+.pink {
+  background-color: #FF99FF;
+}
+
+.green {
+  background-color: #66FF00;
 }
 /*# sourceMappingURL=style.css.map */
