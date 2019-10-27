@@ -9893,7 +9893,7 @@ a.text-dark:focus, a.text-dark:hover {
   }
 }
 .onik {
-  background-color: red;
+  background-color: #3333FF;
   font-size: 3em;
 }
 
@@ -9938,6 +9938,8 @@ a.text-dark:focus, a.text-dark:hover {
   .reponsive:after {
     content: "L (< 991px)";
   }
+.onik {
+  background-color: #FF6600;
 }
 
 body {
